@@ -1,0 +1,22 @@
+5
+true/false
+CSCE240 is the greatest class ever.
+true
+short answer
+Why do you think CSCE240 is the greatest class ever.
+Because I have grown to love C++.
+multiple choice
+C++ is the ____.
+3
+great
+false
+greatest
+true
+okayest
+false
+short answer
+Why did the chicken cross the playground?
+To get to the other slide.
+true/false
+That wasn't funny.
+false

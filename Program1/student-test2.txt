@@ -1,0 +1,5 @@
+Unrecognized relational operator ~
+3 * 4 > 12 - Incorrect
+Unrecognized arithmetic operator ^
+7 - 12 < -4 - Correct
+1 of 2 = 50.00%
