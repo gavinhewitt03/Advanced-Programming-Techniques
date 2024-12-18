@@ -1,2 +1,2 @@
 # CSCE-240
-This repository contains each program I wrote while enrolled in the CSCE 240 course at USC.
+Each program has its own directory; within each directory, there are test files created by my professor to test the performance of my code. Each project is intended to be run within its directory.
